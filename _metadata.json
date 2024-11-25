@@ -1,0 +1,82 @@
+{
+  "hash": "39e48154",
+  "configHash": "5ed6c5e3",
+  "lockfileHash": "9833abc9",
+  "browserHash": "ac432226",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "7915f79e",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "a2e7a6ae",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "000e43bc",
+      "needsInterop": true
+    },
+    "react-bootstrap/Button": {
+      "src": "../../react-bootstrap/esm/Button.js",
+      "file": "react-bootstrap_Button.js",
+      "fileHash": "6df697e5",
+      "needsInterop": false
+    },
+    "react-bootstrap/Card": {
+      "src": "../../react-bootstrap/esm/Card.js",
+      "file": "react-bootstrap_Card.js",
+      "fileHash": "06869aa4",
+      "needsInterop": false
+    },
+    "react-bootstrap/Carousel": {
+      "src": "../../react-bootstrap/esm/Carousel.js",
+      "file": "react-bootstrap_Carousel.js",
+      "fileHash": "a659d918",
+      "needsInterop": false
+    },
+    "react-bootstrap/Image": {
+      "src": "../../react-bootstrap/esm/Image.js",
+      "file": "react-bootstrap_Image.js",
+      "fileHash": "794ca00c",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "3b494dfa",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "c643b750",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-XXB4ZD2D": {
+      "file": "chunk-XXB4ZD2D.js"
+    },
+    "chunk-M324AGAM": {
+      "file": "chunk-M324AGAM.js"
+    },
+    "chunk-D32CGX6N": {
+      "file": "chunk-D32CGX6N.js"
+    },
+    "chunk-HMD2YGDL": {
+      "file": "chunk-HMD2YGDL.js"
+    },
+    "chunk-GRWX7YRK": {
+      "file": "chunk-GRWX7YRK.js"
+    },
+    "chunk-I4MZPW7S": {
+      "file": "chunk-I4MZPW7S.js"
+    }
+  }
+}
